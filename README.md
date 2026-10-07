@@ -1,2 +1,2 @@
-# Healthcare-Laboratory-Turnaround-Time-Analysis
-What factors contribute to delays in laboratory turnaround time, and where could a hospital improve its workflow?
+Healthcare Laboratory Turnaround Time Analysis | Python, SQL, Pandas, Statistical Analysis
+Analyzed laboratory testing data to identify factors associated with turnaround-time delays, including testing volume, specimen priority, department, and time of collection. Performed exploratory and statistical analysis using Python and SQL and developed visualizations to identify workflow bottlenecks and opportunities for operational improvement.
